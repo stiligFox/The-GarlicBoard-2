@@ -6,4 +6,5 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/Keebio-Parts.pretty-master")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/kbd-master/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "MX_Hotswap")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/MX_V2-main/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/marbastlib-main/marbastlib-various.pretty")(options "")(descr ""))
 )
