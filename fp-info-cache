@@ -1,4 +1,4 @@
-21599647446996234
+21614708170504462
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53787,6 +53787,62 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GarlicBoard v2
+MHT151RGBCT-RGB-Reverse-Mount-1206-2
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+GarlicBoard v2
+MXOnly-1.5U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-1.25U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-1.75U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-1U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-2.25U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-2.75U-Hotswap
+
+
+0
+4
+2
+GarlicBoard v2
+MXOnly-2U-Hotswap
+
+
+0
+4
+2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -90131,6 +90187,13 @@ waffle
 0
 0
 0
+kbd_kicad_footprints-main
+EVQWGD001
+
+
+0
+6
+6
 marbastlib-various
 CON_FH33J-4S-0.5SH
 
