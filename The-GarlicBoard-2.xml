@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/Thomas/Documents/GitHub/The-GarlicBoard-2/The-GarlicBoard-2.kicad_sch</source>
-    <date>Wednesday, February 15, 2023 at 11:15:32 AM</date>
+    <date>Monday, February 20, 2023 at 03:56:45 PM</date>
     <tool>Eeschema (6.0.10-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -25,7 +25,7 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -44,7 +44,7 @@
       <tstamps>528a150b-0c47-4d5d-8b36-3b1a12e561b3</tstamps>
     </comp>
     <comp ref="C2">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -63,7 +63,7 @@
       <tstamps>bdc29b03-1977-4cc5-aaeb-ca51a6e90831</tstamps>
     </comp>
     <comp ref="C3">
-      <value>1u</value>
+      <value>1uF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -82,7 +82,7 @@
       <tstamps>81b348d3-65a7-44b8-b001-c5da03f432cf</tstamps>
     </comp>
     <comp ref="C4">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -101,7 +101,7 @@
       <tstamps>6e0cc0b2-314a-44cc-bc1f-1339fa7d5051</tstamps>
     </comp>
     <comp ref="C5">
-      <value>1u</value>
+      <value>1uF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -120,7 +120,7 @@
       <tstamps>c9f37e22-86c5-4013-a91d-5f4185215d67</tstamps>
     </comp>
     <comp ref="C6">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -139,7 +139,7 @@
       <tstamps>6e405f48-023d-45ef-8c53-95e37920a1e5</tstamps>
     </comp>
     <comp ref="C7">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -158,7 +158,7 @@
       <tstamps>52e75528-a7eb-4054-b83d-bb8f06685105</tstamps>
     </comp>
     <comp ref="C8">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -177,7 +177,7 @@
       <tstamps>01ed2349-0a9d-458f-953d-5a0dd785afac</tstamps>
     </comp>
     <comp ref="C9">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -196,7 +196,7 @@
       <tstamps>f1ccb8a9-85c7-4b54-864d-0ff9b5291c01</tstamps>
     </comp>
     <comp ref="C10">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -215,7 +215,7 @@
       <tstamps>88bee13c-7fd9-4253-828f-179bc8ccdd74</tstamps>
     </comp>
     <comp ref="C11">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -386,7 +386,7 @@
       <tstamps>114543fb-83c7-45a4-a916-134e7a6aeeaf</tstamps>
     </comp>
     <comp ref="C20">
-      <value>27p</value>
+      <value>27pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -405,7 +405,7 @@
       <tstamps>a1f7a185-6ce6-4af3-bf42-8fd33056242e</tstamps>
     </comp>
     <comp ref="C21">
-      <value>27p</value>
+      <value>27pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -424,7 +424,7 @@
       <tstamps>ea7e372e-1e2c-4341-b1a8-7a8146f48359</tstamps>
     </comp>
     <comp ref="C22">
-      <value>100n</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -443,7 +443,7 @@
       <tstamps>f7b8e13d-920d-4a70-8f91-45f8c3f7c444</tstamps>
     </comp>
     <comp ref="C23">
-      <value>10u</value>
+      <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -462,7 +462,7 @@
       <tstamps>c9b68339-f2b9-45db-8330-9765ba8c1e7f</tstamps>
     </comp>
     <comp ref="C24">
-      <value>10u</value>
+      <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -3164,7 +3164,7 @@
       <tstamps>1e473ca5-55f8-4c98-8798-b68f686dc7ae</tstamps>
     </comp>
     <comp ref="R6">
-      <value>2k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -3183,7 +3183,7 @@
       <tstamps>8f51b156-f3ae-47ee-9766-44ad8959b8b9</tstamps>
     </comp>
     <comp ref="R7">
-      <value>2k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="Basic or Extended">Basic</field>
@@ -4504,7 +4504,7 @@
     </comp>
     <comp ref="SW65">
       <value>RotaryEncoder_Switch</value>
-      <footprint>kbd_kicad_footprints-main:EVQWGD001</footprint>
+      <footprint>Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</footprint>
       <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="The-GarlicBoard-2.kicad_sch"/>
