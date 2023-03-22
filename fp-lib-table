@@ -10,4 +10,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/random-keyboard-parts.pretty-master")(options "")(descr ""))
   (lib (name "kbd_kicad_footprints-main")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/kbd_kicad_footprints-main")(options "")(descr ""))
   (lib (name "GarlicBoard v2")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/GarlicBoard-master")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "/Users/Thomas/Documents/Projects/GarlicBoard v2/marbastlib-mx.pretty")(options "")(descr ""))
 )
